@@ -1,0 +1,21 @@
+ .AdOne__main {
+    height: 380px;
+    min-width: 335px;
+    background: beige;
+    margin: 10px;
+}
+
+.AdOne__header {
+    font-size: 21px;
+    line-height: 27px;
+    font-weight: bold;
+    padding:15px
+}
+.AdOne__body {
+    padding-left: 15px;
+    display: flex;
+    flex-wrap: wrap;
+}
+.AdOne__footer {
+    padding: 15px;
+}
